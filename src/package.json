@@ -1,0 +1,15 @@
+{
+  "name": "ng2-charts",
+  "version": "1.4.4",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "dependencies": {
+    "charts": "*"
+  },
+  "peerDependencies": {
+    "@angular/common": "*",
+    "@angular/core": "*",
+    "@angular/compiler": "*",
+    "@angular/forms": "*"
+  }
+}
